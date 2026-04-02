@@ -80,16 +80,7 @@ export const Navbar = () => {
                 {link.name}
               </motion.a>
             ))}
-            <motion.a 
-              href="#reservation" 
-              initial={{ opacity: 0, scale: 0.95 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ delay: 0.3 }}
-              className="w-full py-5 gold-gradient text-black font-extrabold rounded-2xl text-center mt-4 shadow-xl tracking-widest text-sm"
-              onClick={() => setIsMobileMenuOpen(false)}
-            >
-              RÉSERVER MAINTENANT
-            </motion.a>
+            
           </motion.div>
         )}
       </AnimatePresence>
