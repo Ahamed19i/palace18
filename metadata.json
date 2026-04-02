@@ -1,0 +1,7 @@
+{
+  "name": "Swiss Palace Dakar - Restaurant & Lounge",
+  "description": "Le restaurant incontournable au Point E, Dakar. Cuisine libanaise, grillades, burgers et chicha. Ouvert tous les jours de 07h30 à 04h du matin.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
