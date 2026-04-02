@@ -10,8 +10,9 @@ export const IMAGES = {
     "/images/image_int6.jpg",
     "/images/image_int7.jpg",
     "/images/image_int8.jpg",
-    "/images/chicha1.jpg",
-    "/public/images/ima_mix1.jpg",
+    "/images/image_int9.jpg",
+    "/images/image_int10.jpg",
+    "/images/image_int11.jpg",
   ]
 };
 

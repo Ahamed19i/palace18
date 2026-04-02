@@ -112,7 +112,7 @@ export const MENU_CATEGORIES = [
         name: "Côtelettes d'Agneau", 
         price: "11.000 FCFA", 
         description: "Grillées au feu de bois avec herbes de Provence.",
-        image: "https://images.unsplash.com/photo-1603048297172-c92544798d5e?auto=format&fit=crop&q=80&w=600"
+        image: "/images/ima_nour7.jpg"
       },
       { 
         name: "Mix Grill Palace", 
@@ -136,7 +136,7 @@ export const MENU_CATEGORIES = [
         name: "Poulet Braisé", 
         price: "7.500 FCFA", 
         description: "Demi-poulet braisé à l'ivoirienne avec alloco ou riz.",
-        image: "/images/4.jpg"
+        image: "/images/3.jpg"
       }
     ]
   },
@@ -154,7 +154,7 @@ export const MENU_CATEGORIES = [
         name: "Chicha Premium", 
         price: "8.000 FCFA", 
         description: "Mélanges spéciaux Swiss Palace.",
-        image: "public/images/chicha3.jpg"
+        image: "/images/chicha3.jpg"
       }     
     ]
   }
